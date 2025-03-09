@@ -1,6 +1,10 @@
 # Prerequisites
 *.d
 
+[Bb]uild
+[Bb]in
+[Tt]emp
+
 # Compiled Object files
 *.slo
 *.lo
